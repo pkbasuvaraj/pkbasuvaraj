@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkbasuvaraj
 - 👀 I’m interested in Planetary Science and Programming.
 - 🌱 I’m currently learning Mars Ionosphere, IDL and NASA SPICE.
-- 💞️ I’m looking to collaborate on Ionosphere, Solar Wind Characteristic and ML algorithms.
+- 💞️ I’m looking to collaborate on Ionosphere, Solar Wind Characteristics and ML algorithms.
 - 📫 How to reach me @pkbasuvaraj
 
 <!---
