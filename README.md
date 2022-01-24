@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pkbasuvaraj
-- 👀 I’m interested in Planetary Science and Programming.
-- 🌱 I’m currently learning Mars Ionosphere, IDL and NASA SPICE.
-- 💞️ I’m looking to collaborate on Ionosphere, Solar Wind Characteristics and ML algorithms.
-- 📫 How to reach me @pkbasuvaraj
+- 👋 Hi, I’m Praveen Basuvaraj
+- 👀 I’m interested in Planetary and Space Science.
+- 🌱 I’m currently learning on Mars Ionosphere, IDL Programming and NASA SPICE Toolkit.
+- 💞️ I’m looking to collaborate on ionosphere, solar-wind interactions and ML algorithms for planetary science.
+- 📫 How to reach me @pkbasuvaraj - Twitter/GitHub/Facebook/GoogleScholar/ResearchGate
 
 <!---
 pkbasuvaraj/pkbasuvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
