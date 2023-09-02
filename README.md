@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Praveen Basuvaraj
-- 👀 I’m interested in Planetary and Space Science.
-- 🌱 I’m currently learning on Mars Ionosphere, IDL Programming and NASA SPICE Toolkit.
-- 💞️ I’m looking to collaborate on ionosphere, solar-wind interactions and ML algorithms for planetary science.
+- 👋 Hi, I’m Praveen!
+- 👀 I’m a researcher in Planetary Aeronomy.
 - 📫 How to reach me @pkbasuvaraj - Twitter/GitHub/Facebook/GoogleScholar/ResearchGate
 
 <!---
