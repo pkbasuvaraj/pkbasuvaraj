@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Praveen!
-- 👀 I’m a researcher in Planetary Aeronomy.
+- 👀 I’m a researcher in Planetary Aeronomy and Space Physics.
 - 📫 How to reach me @pkbasuvaraj - Twitter/GitHub/Facebook/GoogleScholar/ResearchGate
 
 <!---
